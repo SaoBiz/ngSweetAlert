@@ -1,0 +1,20 @@
+{
+  "name": "ngsweetalert",
+  "version": "1.0.0",
+  "description": "An AngularJS wrapper for SweetAlert",
+  "main": "ngSweetAlert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Angular",
+    "AngularJS",
+    "SweetAlert"
+  ],
+  "author": "Alex Grech",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "sweetalert": "^1.1.3"
+  }
+}
