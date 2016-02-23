@@ -1,9 +1,8 @@
 # AngularJS SweetAlerts
-----------
 **ngSweetAlert** is an Angular wrapper that allows you to access and use [SweetAlert](https://github.com/t4t5/sweetalert) alerts from within Angular.
 
 ### Prerequisites
-----------
+--
 You must have Angular and SweetAlerts included in your project
 ```json
 "dependencies": {
@@ -13,7 +12,7 @@ You must have Angular and SweetAlerts included in your project
 ```
 
 ### Installation
-----------
+--
 **ngSweetAlert** is available from **npm**:
 ```
 npm install --save ngSweetAlert
@@ -31,7 +30,7 @@ angular.controller('DemoCtrl', ['SweetAlert', function(SweetAlert) {
 And now you are ready to use SweetAlerts.
 
 ### Methods
-----------
+--
 ##### `SweetAlert.show({Object})`
 Using the `.show()` method allows you to pass configuration options to SweetAlert.
 ###### Example
@@ -99,7 +98,7 @@ The following methods are shorthand for their respective type.
 **Info:** `SweetAlert.info(title, message)`
 
 ### Licence
-----------
+--
 
 The MIT License (MIT)
 
