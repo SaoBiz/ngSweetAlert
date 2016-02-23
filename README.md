@@ -93,8 +93,11 @@ angular.controller('DemoCtrl', ['SweetAlert', function(SweetAlert) {
 The following methods are shorthand for their respective type.
 
 **Success:** `SweetAlert.success(title, message)`
+
 **Error:** `SweetAlert.error(title, message)`
+
 **Warning:** `SweetAlert.warning(title, message)`
+
 **Info:** `SweetAlert.info(title, message)`
 
 ### Licence
