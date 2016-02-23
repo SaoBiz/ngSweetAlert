@@ -6,12 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SaoBiz/ngSweetAlert"
+  },
   "keywords": [
     "Angular",
     "AngularJS",
-    "SweetAlert"
+    "SweetAlert",
+    "modal",
+    "popup"
   ],
-  "author": "Alex Grech",
+  "author": "Alex Grech (https://github.com/SaoBiz)",
+  "bugs": {
+    "url": "https://github.com/SaoBiz/ngSweetAlert/issues"
+  },
   "license": "MIT",
   "dependencies": {
     "angular": "^1.5.0",
