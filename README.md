@@ -6,7 +6,7 @@
 You must have Angular and SweetAlerts included in your project
 ```json
 "dependencies": {
-    "angular": "^1.5.0",
+    "angular": "^1.4.0",
     "sweetalert": "^1.1.3"
 }
 ```
